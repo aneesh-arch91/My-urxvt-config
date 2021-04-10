@@ -1,0 +1,12 @@
+urxvt.background: black
+urxvt.foreground: gray
+!!urxvt.termName: rxvt-unicode
+urxvt*depth: 32
+urxvt.letterSpace: -1
+!! Font prefferenes
+urxvt.font: xft:Source Code Pro:pixelsize=15
+urxvt.boldFont: xft:Source Code Pro:pixelsize=15:weight=bold
+urxvt.cursonBlink: false 
+urxvt.cursorColor: magenta
+urxvt.scrollBar: false
+urxvt.dynamicColors: on
